@@ -1,0 +1,5 @@
+# Evaluation annotations are hosted on Hugging Face and downloaded locally.
+playground/data/eval/**
+!playground/data/eval/
+!playground/data/eval/.gitkeep
+

@@ -1,0 +1,8 @@
+MODEL_BASE_DIR="${MODEL_BASE_DIR:-/path/to/llava/checkpoints}"
+GPU_LIST="${GPU_LIST:-0,1,2,3}"
+FLICKR_IMAGE_FOLDER="${FLICKR_IMAGE_FOLDER:-/path/to/flickr30k/Images}"
+OKVQA_IMAGE_FOLDER="${OKVQA_IMAGE_FOLDER:-/path/to/OK-VQA/val2014}"
+SCIENCEQA_IMAGE_FOLDER="${SCIENCEQA_IMAGE_FOLDER:-/path/to/ScienceQA/images/test}"
+TEXTVQA_IMAGE_FOLDER="${TEXTVQA_IMAGE_FOLDER:-/path/to/TextVQA/train_images}"
+GQA_IMAGE_FOLDER="${GQA_IMAGE_FOLDER:-/path/to/gqa/images}"
+VIZWIZ_IMAGE_FOLDER="${VIZWIZ_IMAGE_FOLDER:-/path/to/VizWiz/images}"
